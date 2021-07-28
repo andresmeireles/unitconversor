@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">unit converter</string>
+    <string name="hintLabel">number to convert</string>
+    <string name="meters">meters</string>
+    <string name="fromLabel">from</string>
+    <string name="toLabel">to</string>
+    <string name="kilometer">kilometer</string>
+    <string name="centimeter">centimeter</string>
+    <string name="convertButtonLabel">convert unit</string>
+    <string name="convertedAmount">%s</string>
+</resources>
